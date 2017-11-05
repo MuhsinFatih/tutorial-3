@@ -4,5 +4,5 @@
 using namespace std;
 
 void main() {
-	printf("hello!\n");
+	printf("hello world!\n");
 }
