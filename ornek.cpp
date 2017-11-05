@@ -9,6 +9,7 @@ int addNumbers(int a, int b) {
 }
 int multiplyNumbers(int c, int d) {
 	return c*d;
+	//multiply ekledim.
 }
 void main() {
 	printf("hello world!\n");
