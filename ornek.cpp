@@ -6,4 +6,5 @@ using namespace std;
 void main() {
 	printf("hello world!\n");
 	printf("OpenZeka!");
+	printf("asdf");
 }
